@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer - Front End to become</h3>
 
 - 🌱 I’m currently learning **React.js** and **Rust**
-- My portfolio : [https://usernamedlo.com](https://usernamedlo.com) (Work in progress)
+- 👛 My portfolio : [https://usernamedlo.com](https://usernamedlo.com) (Work in progress)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
