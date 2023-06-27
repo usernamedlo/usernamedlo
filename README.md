@@ -3,7 +3,7 @@
 
 <p align="center"> 
 🌱 I’m currently learning <strong>React.js</strong> and <strong>Rust</strong>
-<br> 👛 My portfolio : <a href="https://usernamedlo.com" target="blank"></a> (Work in progress)
+<br> 👛 My portfolio : <a href="https://usernamedlo.com" target="blank">usernamedlo.com</a> (Work in progress)
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
