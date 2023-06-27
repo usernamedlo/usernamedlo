@@ -3,7 +3,7 @@
 
 <p align="center"> 
 🌱 I’m currently learning **React.js** and **Rust**
-<br> 👛 My portfolio : [https://usernamedlo.com](https://usernamedlo.com) (Work in progress)
+<br> 👛 My portfolio : [https://usernamedlo.com] (https://usernamedlo.com) (Work in progress)
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -46,6 +46,7 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
+<h2></h2>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=usernamedlo&show_icons=true&locale=en&layout=compact" alt="usernamedlo" /></p>
 <br/>
