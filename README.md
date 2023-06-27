@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
 <h2 align="center">Web Developer - Front End to become</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usernamedlo&label=Profile%20views&color=0e75b6&style=flat" alt="usernamedlo" /> </p>
 
 - 🌱 I’m currently learning **React.js** and **Rust**
 - 👛 My portfolio : [https://usernamedlo.com](https://usernamedlo.com) (Work in progress)
