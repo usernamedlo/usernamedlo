@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loïc</h1>
-<h2 align="center">Web Developer - Front End to become</h2>
+<h2 align="center" style="text-decoration: none;" >Web Developer - Front End to become</h2>
 
 - 🌱 I’m currently learning **React.js** and **Rust**
 - 👛 My portfolio : [https://usernamedlo.com](https://usernamedlo.com) (Work in progress)
