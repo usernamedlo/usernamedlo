@@ -28,7 +28,7 @@
       <a href="https://tailwindcss.com" target="__blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/></a>
       <a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
       <a href="https://materializecss.com" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354047/materializecss.svg" alt="materialize" width="40" height="40"/></a>
-    <a href="https://nextjs.org" target="__blank" rel="noreferrer"> <img src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" alt="next.js" width="40" height="40"/></a>
+    <a href="https://nextjs.org" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="40" height="40"/></a>
     </p>
 <h3 align="center">Tools</h3>
     <p align="center"> 
