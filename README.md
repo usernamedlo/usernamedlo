@@ -2,7 +2,7 @@
 <h2 align="center">Web Developer - Front End to become</h2>
 
 <p align="center"> 
-🌱 I’m currently learning <strong>Next.js</strong> and <strong>Rust</strong>
+🌱 I’m currently learning <strong>Next.js</strong>
 <br> 👛 My portfolio : <a href="https://usernamedlo.com" target="_blank">usernamedlo.com</a>
 </p>
 <h2 align="center">Connect with me:</h2>
