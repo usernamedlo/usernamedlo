@@ -26,9 +26,7 @@
     <p align="center">
       <a href="https://reactjs.org/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
       <a href="https://tailwindcss.com" target="__blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/></a>
-      <a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-      <a href="https://materializecss.com" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354047/materializecss.svg" alt="materialize" width="40" height="40"/></a>
-    <a href="https://nextjs.org" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="40" height="40"/></a>
+      <a href="https://nextjs.org" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="40" height="40"/></a>
     </p>
 <h3 align="center">Tools</h3>
     <p align="center"> 
@@ -40,6 +38,8 @@
 <p align="center"> 
 <a href="https://www.arduino.cc/" target="__blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.java.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+          <a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+      <a href="https://materializecss.com" target="__blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354047/materializecss.svg" alt="materialize" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.php.net" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.python.org" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
