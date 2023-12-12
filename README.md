@@ -4,6 +4,8 @@
 <p align="center"> 
 🌱 I’m currently learning <strong>Next.js</strong> & <strong>TypeScript</strong>
 <br> 👛 My portfolio : <a href="https://usernamedlo.com" target="_blank">usernamedlo.com</a>
+<br> My FreeCodeCamp profil : <a href="https://www.freecodecamp.org/dlo" target="_blank">FreeCodeCamp</a>
+<br> My Exercism profil : <a href="https://exercism.org/profiles/usernamedlo" target="_blank">exercism</a>
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
