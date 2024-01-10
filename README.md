@@ -6,7 +6,7 @@
 <br> 👛 My portfolio : <a href="https://usernamedlo.com" target="_blank">usernamedlo.com</a>
 <br> My FreeCodeCamp profil : <a href="https://www.freecodecamp.org/dlo" target="_blank">FreeCodeCamp</a>
 <br> My Exercism profil : <a href="https://exercism.org/profiles/usernamedlo" target="_blank">exercism</a>
-<br>[![wakatime](https://wakatime.com/badge/user/018c8206-b949-46e0-9be4-f069fe39b999.svg)](https://wakatime.com/@018c8206-b949-46e0-9be4-f069fe39b999)
+<br> [![wakatime](https://wakatime.com/badge/user/018c8206-b949-46e0-9be4-f069fe39b999.svg)](https://wakatime.com/@018c8206-b949-46e0-9be4-f069fe39b999)
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
