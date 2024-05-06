@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dlo</h1>
-<h2 align="center">Web Developer - Front End to become</h2>
+<h2 align="center">Web Developer - Full Stack to become</h2>
 
 <p align="center"> 
 🌱 I’m currently learning <strong>Next.js</strong> & <strong>Solidity</strong>
