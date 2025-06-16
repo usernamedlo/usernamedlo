@@ -2,7 +2,7 @@
 <h2 align="center">Web2 Full Stack - Web3 to become</h2>
 
 <p align="center"> 
-🌱 I’m currently learning <strong>Next.js</strong> & <strong>Solidity</strong>
+🌱 I’m currently learning <strong>Rust</strong> & <strong>Solidity</strong>
 <br> 👛 My portfolio : <a href="https://usernamedlo.com" target="_blank">usernamedlo.com</a>
 <br> My FreeCodeCamp profil : <a href="https://www.freecodecamp.org/dlo" target="_blank">FreeCodeCamp</a>
 <br> My Exercism profil : <a href="https://exercism.org/profiles/usernamedlo" target="_blank">exercism</a>
