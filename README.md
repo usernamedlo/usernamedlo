@@ -10,7 +10,6 @@
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/loic-ghijselings/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Loïc Ghijselings" height="30" width="40" /></a>
 <a href="mailto:loic.ghijselings@usernamedlo.com" target="_blank">
 <img align="center" src="https://cdn0.iconfinder.com/data/icons/material-circle-apps/512/icon-email-material-design-512.png" alt="mailtousernamedlo" height="40" width="40">
 </a>
